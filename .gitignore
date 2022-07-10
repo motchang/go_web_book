@@ -1,0 +1,10 @@
+# Ignore All
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignroe all dirs
+!*/
+
+.idea
